@@ -1,0 +1,11 @@
+.my-login-image{
+
+    background-image: url("../asset/bg-login.jpg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    min-height: 240px;
+
+}
